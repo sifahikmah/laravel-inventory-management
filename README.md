@@ -45,7 +45,7 @@ Pastikan perangkat sudah memiliki:
 ### 1. Clone Repository
 
 ```bash
-[git clone URL_REPOSITORY_KAMU](https://github.com/sifahikmah/laravel-inventory-management.git)
+[https://github.com/sifahikmah/laravel-inventory-management.git]
 ```
 
 
