@@ -26,9 +26,18 @@ Project ini dibuat sebagai portfolio untuk mempraktikkan pengembangan aplikasi w
 - Blade Template Engine
 - XAMPP
 
+
 ## Tampilan Aplikasi
 
-Screenshot aplikasi akan ditambahkan pada bagian ini.
+### Halaman Daftar Barang
+![Halaman Daftar Barang](screenshots/daftar-barang.png)
+
+### Form Tambah Barang
+![Form Tambah Barang](screenshots/tambah-barang.png)
+
+### Form Edit Barang
+![Form Edit Barang](screenshots/edit-barang.png)
+
 
 ## Persyaratan
 
@@ -45,7 +54,7 @@ Pastikan perangkat sudah memiliki:
 ### 1. Clone Repository
 
 ```bash
-[https://github.com/sifahikmah/laravel-inventory-management.git]
+https://github.com/sifahikmah/laravel-inventory-management.git
 ```
 
 
@@ -75,8 +84,6 @@ DB_DATABASE=inventory_management
 DB_USERNAME=root
 DB_PASSWORD=
 ```
-
-Sesuaikan username dan password dengan konfigurasi MySQL di perangkatmu.
 
 ### 5. Generate Application Key
 
