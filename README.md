@@ -45,10 +45,9 @@ Pastikan perangkat sudah memiliki:
 ### 1. Clone Repository
 
 ```bash
-git clone URL_REPOSITORY_KAMU
+[git clone URL_REPOSITORY_KAMU](https://github.com/sifahikmah/laravel-inventory-management.git)
 ```
 
-Ganti `URL_REPOSITORY_KAMU` dengan URL repository GitHub milikmu.
 
 ### 2. Masuk ke Folder Project
 
